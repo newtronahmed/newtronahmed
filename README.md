@@ -10,11 +10,11 @@
 
 - 🤞 &nbsp; Consistently upgrading my skills to become a world class software engineer.
 
-- ✍️ &nbsp; Currently enrolled at Alx Africa Software Engineering program . 
+- ✍️ &nbsp; Currently enrolled in Alx Africa Software Engineering program . 
 
 - 🤝🏻 &nbsp; Looking to collaborate on interesting projects or working together.
   
-- 👀 &nbsp; I love animes and sitcoms in my spare time.
+- 👀 &nbsp; I watch animes and sitcoms in my spare time.
 
 
 <h3>🛠 My Tech Stack</h3>
@@ -36,7 +36,7 @@
 
 <h3>🌱 Currently Learning</h3>
 
-- 🔧 &nbsp; Linux | Shell scripting | C | Python
+- 🔧 &nbsp; Linux | Shell scripting | Systems Engineering | Low Level Programming
 
 <hr>
 
