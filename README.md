@@ -1,97 +1,50 @@
-### Hi there 👋 I am Ahmed Zubairu
+# Hi there! 👋 I'm Ahmed Zubairu
 
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Programming GIF">
+</div>
 
-<h3> 👨‍💻 About Me </h3>
+## 👨‍💻 About Me
 
-- 💻  &nbsp;Self-taught developer proficient in building interactive and complex web applications.
+- 💻 Self-taught developer specializing in interactive and complex web applications
+- 🎓 Bachelor's degree in Agricultural Economics
+- 🌱 Currently enrolled in Alx Africa Software Engineering program
+- 🚀 Passionate about continuous learning and becoming a world-class software engineer
+- 👀 Anime and sitcom enthusiast in my free time
+- 🤝 Open to exciting collaborations and opportunities
 
-- 🎓 &nbsp; Graduated with a Bachelors in Agricultural Economics.
+## 🛠️ Tech Stack
 
-- 🤞 &nbsp; Consistently upgrading my skills to become a world class software engineer.
+```javascript
+const skills = {
+    frontend: ['TypeScript', 'React', 'Next.js', 'Redux'],
+    backend: ['Node.js', 'Express', 'Laravel', 'Spring Boot'],
+    databases: ['MySQL', 'MongoDB'],
+    tools: ['Git', 'Redux Saga', 'React Query', 'Redux RTK'],
+    currentFocus: ['Microservices', 'Devops', 'Cloud Computing']
+}
+```
 
-- ✍️ &nbsp; Currently enrolled in Alx Africa Software Engineering program . 
+## 📊 GitHub Stats
 
-- 🤝🏻 &nbsp; Looking to collaborate on interesting projects or working together.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=newtronahmed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtronahmed&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
   
-- 👀 &nbsp; I watch animes and sitcoms in my spare time.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://newtro-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-zubairu-ab625b184/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Neutronahmed)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmedzubairu365@gmail.com)
 
+</div>
 
-<h3>🛠 My Tech Stack</h3>
+---
 
-
-- 💻 &nbsp;  Typescript | React | Nextjs | Laravel | Mysql | Redux | MongoDB | Node | Express 
-
-
-<!--
-
-- 🛢 &nbsp; Typescript | Javascript | React | Redux | MongoDB | Node | Express
-
-- 🔧 &nbsp; Git | Redux Saga | React Query | Redux RTK
-
--->
-
-
-
-
-<h3>🌱 Currently Learning</h3>
-
-- 🔧 &nbsp; Linux | Shell scripting | Systems Engineering | Low Level Programming
-
-<hr>
-
-
-
-<br/><br/>
-
-[![Neutronahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=newtronahmed&show_icons=true)](https://github.com/newtronahmed)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtronahmed&show_icons=true)
-
-<br><br>
-
-<hr>
-
-
-
-<h3> 🤝🏻 Let's connect </h3>
-
-<br>
-
-
-
-<p align="center">
-
-<a href="https://newtro-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/newtro-portfoli.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/ahmed-zubairu-ab625b184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Zubairu-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://twitter.com/Neutronahmed"><img alt="twitter" src="https://img.shields.io/badge/twitter?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:hmedzubairu365@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hmedzubairu365@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
-
-
-
-
-<!-- ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=theophilusboakye.theo)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> 
-
-
-
-credits @Theo
--->
-
-
-
-
-
-<hr>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=newtronahmed&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</div>
