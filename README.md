@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ahmed Zubairu
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Programming GIF">
+
 </div>
 
 ## 👨‍💻 About Me
